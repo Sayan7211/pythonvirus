@@ -62,4 +62,3 @@ def virusPayload():
  
  
 ##### VIRUS END #####
-
